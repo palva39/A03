@@ -29,7 +29,7 @@
 10. Click Create New Project on the Welcome screen or select File | New | Project from the main menu. The New Project dialog opens.
 
 <details>
-  <summary>References</summary>
+  <summary><h3>References</h3></summary>
   <p>https://www.codecademy.com/article/f1-u3-git-setup</p>
   <p>https://docs.github.com/en/get-started/quickstart/set-up-git</p>
   <p>https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address</p>
@@ -40,3 +40,17 @@
   <p>https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html</p>
  </details>
   
+<details>
+  <summary><h3>Glossary<h3></summary>
+  <p><strong>Branch</strong>: is a pointer to a specific snapshot of the project's changes. It represents an independent line of development.</p>
+    <p><strong>Clone</strong>: to create a local copy of a remote repository on your own computer. This copy includes all of the repository's files, history, and branches.</p>
+    <p><strong>Commit</strong>: a record of changes to a repository. Each commit has a unique ID (also called a hash), which allows you to keep track of specific changes.</p>
+    <p><strong>Fetch</strong>: is a Git command used to get branches and/or tags from a remote repository, along with the objects necessary to complete their histories.</p>
+    <p><strong>GIT</strong>: a free, open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.</p>
+    <p><strong>GitHub</strong>: s a web-based hosting service for version control repositories, typically those using Git. It provides a platform for collaboration, allowing developers to contribute to projects, track issues, and manage changes.</p>
+     <p><strong>Merge</strong>: is a command that integrates changes from one branch into another.</p>
+     <p><strong>Merge Conflict</strong>: occurs when Git is unable to automatically resolve differences in code between two commits. This typically happens when two branches have made different changes to the same part of a file and then those branches are merged together.</p>
+    <p><strong>Push</strong>: Git command used to upload local repository content to a remote repository. After making commits in your local repository, you would use 'push' to sync your changes with the remote repository.</p>
+    <p><strong>Pull</strong>: Git command used to fetch and download content from a remote repository and immediately update the local repository to match that content.</p>
+    <p><strong>Remote</strong>: In Git, a remote refers to another copy of the repository that is usually hosted on a remote server.</p>
+    <p><strong>Repository</strong>: is a directory where Git has been initiated to track and store changes in files. Repositories can exist locally on a developer's machine or as a remote copy on another computer or a server.</p>
