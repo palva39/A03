@@ -16,4 +16,26 @@
 14. Now your README.txt should be updated to the previous commands that were entered in **STEP 9** in your GitHub page README.txt file
 
 ## Webstorm SetUp ##
+1. Download [Webstorm](https://www.jetbrains.com/webstorm/download/#section=windows) make sure you have a license to be able to use all tools
+2. Follow the instructions in the installation wizard and make sure to enable the pathway
+3. After installing Webstorm, open up the settings and click on manage licenses and make sure you are logged in with your jetbrains account to enable the license
+4. Once that's complete, it's time to connect your GitHub account and Git together with Webstorm 
+5. Press <kbd> CTRL + ALT + S</kbd> in the Webstorm application and head over to the GitHub section and connect your account. 
+6. Git is already part of Webstorm through the version control which can be enabled when doing a project
+7. Once you have opened a folder in WebStorm, the .idea subfolder is added to it where WebStorm stores its internal configuration settings, for example, for the project code style or the version control system.
+8. On the Welcome Screen, click Open and then select the folder with your application in the dialog that opens.
+9. Click Get from VCS on the Welcome screen and make sure its Git
+10. Click Create New Project on the Welcome screen or select File | New | Project from the main menu. The New Project dialog opens.
 
+<details>
+  <summary>References</summary>
+  <p>https://www.codecademy.com/article/f1-u3-git-setup</p>
+  <p>https://docs.github.com/en/get-started/quickstart/set-up-git</p>
+  <p>https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address</p>
+  <p>https://git-scm.com/book/en/v2/Getting-Started-Installing-Git</p>
+  <p>https://git-scm.com/download/win</p>
+  <p>https://www.jetbrains.com/help/webstorm/github.html#register-account</p>
+  <p>https://www.jetbrains.com/help/webstorm/set-up-a-git-repository.html#put-existing-project-under-Git</p>
+  <p>https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html</p>
+ </details>
+  
