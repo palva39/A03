@@ -1,5 +1,5 @@
 # A03
-## Git and GitHub SetUp##
+## Git and GitHub SetUp ##
 1. Getting Started with [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 2. Follow the directions stated in the website above to make sure its a clean installation
 3. Head over to [Download Git](https://git-scm.com/download/win)
