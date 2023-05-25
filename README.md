@@ -41,7 +41,7 @@
  </details>
   
 <details>
-  <summary><h3>Glossary<h3></summary>
+  <summary><h3>Glossary</h3></summary>
   <p><strong>Branch</strong>: is a pointer to a specific snapshot of the project's changes. It represents an independent line of development.</p>
     <p><strong>Clone</strong>: to create a local copy of a remote repository on your own computer. This copy includes all of the repository's files, history, and branches.</p>
     <p><strong>Commit</strong>: a record of changes to a repository. Each commit has a unique ID (also called a hash), which allows you to keep track of specific changes.</p>
@@ -54,3 +54,4 @@
     <p><strong>Pull</strong>: Git command used to fetch and download content from a remote repository and immediately update the local repository to match that content.</p>
     <p><strong>Remote</strong>: In Git, a remote refers to another copy of the repository that is usually hosted on a remote server.</p>
     <p><strong>Repository</strong>: is a directory where Git has been initiated to track and store changes in files. Repositories can exist locally on a developer's machine or as a remote copy on another computer or a server.</p>
+</details>
